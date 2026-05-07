@@ -2,7 +2,7 @@
 # Analisando engajamento do Instagram
 
 
-Projeto de seguimentação de clientes de uma base de dados do instagram utilizado em curso de Ciência de Dados ministrado por mim para a <a href="https://www.hashtagtreinamentos.com/"> Hashtag Treinamentos </a>. Foi utilizando os seguintes pacotes da liguagem Python: Pandas e Mumpy.
+Projeto de seguimentação de clientes de uma base de dados do instagram utilizado em curso de Ciência de Dados ministrado por mim para a <a href="https://www.hashtagtreinamentos.com/"> Hashtag Treinamentos </a>. Foi utilizando os seguintes pacotes da liguagem Python: Pandas e Numpy.
 
 
 ## Objetivos
